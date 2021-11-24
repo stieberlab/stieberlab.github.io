@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!--#include file="stieberlabheader.html" -->
+
+    <div id="content">
+		<h2>Resources</h2>
+        <p></p>
+        <h3>Video Tutorials Developed By Us:</h3>
+        <br>Setting up a hanging drop protein crystallization video tutorial <a href=" http://www.kaltura.com/tiny/6mf8a" title="Hanging Drop"><b>(link)</b></a>
+        <br>Analyzing protein crystals using a microscope video tutorial <a href=" http://www.kaltura.com/tiny/7rh3d" title="Crystal Analysis"><b>(link)</b></a>
+        <br>Centering and modifying a molecule in Avogadro for computational input <a href="https://www.youtube.com/watch?v=3zr-usq0wXs" title="Avogadro Centering"><b>(link)</b></a>
+        <br>Mercury visualization tutorial <a href="https://www.youtube.com/watch?v=YZbmTD6ORp4" title="Mercury Visualization"><b>(link)</b></a>
+        <br>
+        <p></p>
+        <p>The following are programs we use in our group (click for links):</p>
+        <p></p> 
+	   	<h3>Computational Software</h3>
+        <p><a href="https://orcaforum.cec.mpg.de/" title="ORCA">DFT & CASSCF calculations: ORCA</a>
+        <br><a href="http://www.cgl.ucsf.edu/chimera/download.html" title="Chimera">Visualizing Orbitals: Chimera</a>
+        <br><a href="http://avogadro.cc/wiki/Main_Page" title="Avogadro">Building and centering structures: Avogadro</a>
+        <br><a href="http://www.chemcraftprog.com/" title="Chemcraft">Visualizing calculated frequencies: Chemcraft</a>
+        <br><a href="http://sourceforge.net/projects/moanalyzer/?source=typ_redirect" title="MOAnalyzer">Visualizing calculations: MOAnalyzer</a>
+        <br><a href="http://www.anorg.chem.uu.nl/CTM4XAS/" title="CTM4XAS">Multiplet theory: CTM4XAS</a>
+        </p>
+        <p></p>
+	   	<h3>Data Analysis Software</h3>
+        <p><a href="http://ssrl.slac.stanford.edu/exafspak.html" title="EXAFSPAK">XAS data processing and fitting: EXAFSPAK</a>
+        <br><a href="http://bruceravel.github.io/demeter/" title="Athena">XAS data processing: Athena</a>
+        <br><a href="http://sourceforge.net/projects/xming/" title="Xming">Needed to run EXAFSPAK: Xming</a>
+        <br><a href="http://www.chem.gla.ac.uk/~louis/software/wingx/download.html" title="Wingx">Crystallography: Wingx</a>
+        <br><a href="http://shelx.uni-ac.gwdg.de/SHELX/download.php" title="SHELX">Crystallography: SHELX</a>
+        </p>
+         <p></p>
+	   	<h3>Additional Links</h3>
+        <p><a href="https://www.cpp.edu/~library/databases/scifinder.shtml" title="SciFinder">CPP sign up for SciFinder</a>
+        <br><a href="https://www.xsede.org" title="XSEDE">Computational Cluster: NSF XSEDE</a>
+        <br><a href="http://ssrl.slac.stanford.edu" title="SSRL">Stanford Synchrotron Radiation Lightsource: SSRL</a>
+        <br><a href="http://symmetry.otterbein.edu" title="SSRL">Symmetry/Group Theory Practice: Symmetry@Otterbein</a>
+        <br><a href="http://winter.group.shef.ac.uk/orbitron/" title="SSRL">Orbital Visualization: The Orbitron</a>
+        </p>
+    </div>
+
+<!--#include file="stieberlabfooter.html" -->
+</html>

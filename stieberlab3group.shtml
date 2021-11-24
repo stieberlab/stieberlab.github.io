@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!--#include file="stieberlabheader.html" -->
+
+    <style>
+div.img {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 230px;
+}	
+
+div.alumni {
+    margin: 5px;
+    
+    float: bottom;
+    width: 500px;
+}	
+
+div.img img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+</style>
+
+    <div id="content">
+		<h2>Group Members</h2> 
+        <p>Please contact Dr. Stieber if you are interested in conducting research in the group. 
+        <br>Group meetings are typically Tuesdays during lunch.</p>
+		
+        <h2>Current Members <a href="stieberlab3apictures.shtml" title="pictures">(click for group pictures)</a><a href="stieberlab3balumni.shtml" title="alumni">(click for alumni)</a></h2>
+        
+        <div class="img">
+          <a target="_blank" href="img/CPP_Briana.jpg">
+            <img src="img/CPP_Briana.jpg" alt="Briana" width="230" height="173">
+          </a>
+          <div class="desc"><b>Briana Arreaga</b> is a Chemistry major and RISE and LSAMP Fellow. She joined Aug. 2018 and is making Ni catalysts.</div>
+        </div> 
+        
+        <div class="img">
+          <a target="_blank" href="img/CPP_Jocelyn.jpg">
+            <img src="img/CPP_Jocelyn.jpg" alt="Jocelyn" width="230" height="173">
+          </a>
+          <div class="desc"><b>Romualda Aquino</b> is a Master's student and joined the group in Oct. 2021. She is making new ligands.</div>
+        </div> 
+        
+        <div class="img">
+          <a target="_blank" href="img/CPP_Nicole.png">
+            <img src="img/CPP_Nicole.png" alt="Nicole" width="230" height="173">
+          </a>
+          <div class="desc"><b>Nicole Avila</b> is a Chemistry major and joined the group in Feb. 2020. She studies Ni nitrosyls.</div>
+        </div> 
+    
+        <div class="img">
+          <a target="_blank" href="img/CPP_Jocelyn.jpg">
+            <img src="img/CPP_Jocelyn.jpg" alt="Jocelyn" width="230" height="173">
+          </a>
+          <div class="desc"><b>Ethan Chavarin</b> is Chemistry major, RIO fellow, and joined the group in Sept. 2021. He is studying Ni NHC complexes.</div>
+        </div> 
+        
+        <div class="img">
+          <a target="_blank" href="img/CaitlinCruz.jpg">
+            <img src="img/CaitlinCruz.jpg" alt="Caitlin" width="230" height="173">
+          </a>
+          <div class="desc"><b>Caitlyn Cruz</b> is Biology major, RIO fellow, and joined the group in Sept. 2021. She is working on crystallography.</div>
+        </div> 
+      
+        <div class="img">
+          <a target="_blank" href="img/CPP_IR.jpg">
+            <img src="img/CPP_IR.jpg" alt="Jessica" width="230" height="173">
+          </a>
+          <div class="desc"><b>Jessica De la Huerta</b> Joined the group in Oct. 2019. She is studying crystallography.</div>
+        </div> 
+        
+        <div class="img">
+          <a target="_blank" href="img/IMG_Neil.jpg">
+            <img src="img/CPP_Neil_Dudeja.jpg" alt="Neil" width="230" height="173">
+          </a>
+          <div class="desc"><b>Neil Dudeja</b> joined the group in Oct. 2019 and is studying crystallography.</div>
+        </div> 
+        
+        <div class="img">
+          <a target="_blank" href="img/IMG_Carson.jpg">
+            <img src="img/IMG_Carson.jpg" alt="Carson" width="230" height="173">
+          </a>
+          <div class="desc"><b>Carson Gorney</b> is a Chemistry major and joined the group in Sept. 2018. He computes Cu nitrosyl complexes.</div>
+        </div>
+        
+        <div class="img">
+          <a target="_blank" href="img/CPP_Jocelyn.jpg">
+            <img src="img/CPP_Jocelyn.jpg" alt="Jocelyn" width="230" height="173">
+          </a>
+          <div class="desc"><b>Carlos Gutierrez</b> is Master's student and joined the group in Oct. 2021. He work on crystallography.</div>
+        </div> 
+        
+        <div class="img">
+          <a target="_blank" href="img/CPP_Jocelyn.jpg">
+            <img src="img/CPP_Jocelyn.jpg" alt="Jocelyn" width="230" height="173">
+          </a>
+          <div class="desc"><b>Mei Matsumoto</b> is Chemistry major and joined the group in Oct. 2020. She is working on crystallography.</div>
+        </div> 
+        
+        <div class="img">
+          <a target="_blank" href="img/CPP_Jocelyn.jpg">
+            <img src="img/CPP_Jocelyn.jpg" alt="Jocelyn" width="230" height="173">
+          </a>
+          <div class="desc"><b>Kimberly Olivares</b> is Chemistry major, NSF SPIRES fellow, and joined the group in Sept. 2021. She is working on crystallography.</div>
+        </div> 
+        
+        <div class="img">
+          <a target="_blank" href="img/IMG_Isaac.jpg">
+            <img src="img/IMG_Isaac.jpg" alt="Isaac" width="230" height="173">
+          </a>
+          <div class="desc"><b>Isaac Ramirez</b> is a Chemistry major and joined the group in Sept. 2018. He is making Co nitrosyls.</div>
+        </div>
+        
+        <div class="img">
+          <a target="_blank" href="img_Justin.jpg">
+            <img src="img/CPP_Justin.JPG" alt="Justin" width="230" height="173">
+          </a>
+          <div class="desc"><b>Justin Tabay Cortez</b>, BS in Chemistry at CPP, now doing his teaching credential and MS. He joined March 2016.</div>
+        </div>
+        
+        <div class="img">
+          <a target="_blank" href="img/CPP_Jocelyn.jpg">
+            <img src="img/CPP_Jocelyn.jpg" alt="Jocelyn" width="230" height="173">
+          </a>
+          <div class="desc"><b>Zachary Tam</b> is a Master's student and joined the group in Oct. 2021. He does computational chemistry.</div>
+        </div> 
+ 
+        
+    </div>
+
+<!--#include file="stieberlabfooter.html" -->
+</html>

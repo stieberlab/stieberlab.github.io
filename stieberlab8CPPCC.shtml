@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!--#include file="stieberlabheader.html" -->
+
+    <div id="content">
+		<img src="img/CPPCC_Logo5.jpg" height="147" width="249" alt="CPPCC"/> 
+		<p>The Cal Poly Pomona Crystallography Co-op (CPPCC) houses a Bruker D8 Venture diffractometer with Cu and Mo microsources and a PHOTON II detector. The instrument purchase was supported by the Department of Defense (DoD) Research and Education Program for Historically Black Colleges and Universities and Minority-Serving Institutions (HBCU/MI) Equipment/Instrumentation Grant under contract #W911NF-17-1-0537.</p>
+        <p>Please contact Dr. Stieber (sestieber [at] cpp [dot] edu) for any inquiries regarding use of the instrument. Please fill out our sample submission form if sending samples for analysis <a href="img/CPPCC_sampleform.pdf"><b>(link)</b></a>.</p>
+        <br>
+        <h2>Crystallography Teaching Resources (created by CPPCC)</h2>
+        <br>Setting up a hanging drop protein crystallization video tutorial <a href=" http://www.kaltura.com/tiny/6mf8a" title="Hanging Drop"><b>(link)</b></a>
+        <br>Analyzing protein crystals using a microscope video tutorial <a href=" http://www.kaltura.com/tiny/7rh3d" title="Crystal Analysis"><b>(link)</b></a>
+        <br>
+        <br>
+        <img src="img/CPP_XRD2.jpg" height="147" alt="XRD2"/>  <img src="img/CPP_XRD1.jpg" height="147" alt="XRD1"/>  
+        <br>
+        <br>
+        <h2>News Stories</h2>
+        <br>Feb. 16, 2018: InlandEmpire.US <a href="http://inlandempire.us/cal-poly-pomona-unveils-new-single-crystal-x-ray-diffractometer/" title="Article link"><b>(link)</b></a>
+        <br>Feb. 15, 2018: PolyCentric <a href="http://polycentric.cpp.edu/2018/02/cal-poly-pomona-unveils-new-single-crystal-x-ray-diffractometer-that-gives-undergrads-access-to-latest-technology/" title="Article link"><b>(link)</b></a>
+        <p></p>
+        <img src="img/Crystallography-Ribbon-Cutting-Web.jpg" class="post-img" alt="XRD picture"/>
+        </div>
+
+<!--#include file="stieberlabfooter.html" -->
+</html>
