@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!--#include file="positionsheader.html" -->
+
+    <div id="content">
+		<h2>Applicant Resources</h2>
+		<p></p>
+        <p>The following are resources to assist applicants for tenure-track positions in the Department of Chemistry & Biochemistry (click on each item for links):</p>
+        <p></p> 
+        <p><a href="2019Search/DepartmentInfo.pdf" title="Department Info">Department Information</a>
+        <br><a href="2019Search/Courses-Analytical.pdf" title="Analytical Courses">Listing of Analytical Courses</a>
+        <br><a href="2019Search/Courses-Organic.pdf" title="Organic Courses">Listing of Organic Courses</a>
+        <br><a href="2019Search/TipsForApplying.pdf" title="Tips for Applying">Tips for Applying</a>
+        <br><a href="2019Search/TopTen.pdf" title="Top Ten">Top Ten Perks of Being a Cal Poly Pomona Chemist</a>
+        </p>
+
+<!--#include file="stieberlabfooter.html" -->
+</html>
