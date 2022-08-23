@@ -12,7 +12,7 @@ function mkPage () {
     html="$2"
 
     echo "Rendering $html"
-    mkpage \
+    ./mkpage \
         "content=$content" \
         page.tmpl > $html
 }
