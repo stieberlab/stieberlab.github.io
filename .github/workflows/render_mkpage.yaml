@@ -20,7 +20,7 @@ jobs:
       - name: wget
         uses: wei/wget@v1
         with:
-          args: mkpage.zip https://github.com/caltechlibrary/mkpage/releases/download/v1.0.3/mkpage-1.0.3-linux-amd64.zip   
+          args: -O mkpage.zip https://github.com/caltechlibrary/mkpage/releases/download/v1.0.3/mkpage-1.0.3-linux-amd64.zip   
       - name: unzip
         shell: bash
         run: unzip -qq mkpage.zip -mkpage
