@@ -23,7 +23,6 @@ function mkSite() {
     echo "Generating HTML content for $FOLDER"
     find . -type f | grep -v .git | grep -E ".html$" | while read ITEM; do
         mkPage  "$ITEM" "docs/$ITEM"
-        git add "docs/$ITEM"
     done
 }
 
