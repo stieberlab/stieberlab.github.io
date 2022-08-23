@@ -33,6 +33,9 @@ jobs:
       - name: chmod
         shell: bash
         run: chmod +x mkpage
+      - name: chmod
+        shell: bash
+        run: chmod +x mk-website.bash
       - name: Convert
         shell: bash
         run: ./mk-website.bash
