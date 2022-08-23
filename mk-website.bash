@@ -1,8 +1,5 @@
 #!/bin/bash
 
-function checkApp() {
-    command -v $1 >/dev/null 2>&1 || { echo $1 " is required but not installed."; exit 1; }
-}
 
 function softwareCheck() {
     for APP_NAME in $@; do
@@ -30,7 +27,5 @@ function mkSite() {
     done
 }
 
-echo "Checking necessary software is installed"
-softwareCheck mkpage
 echo "Generating website"
 mkSite "."
