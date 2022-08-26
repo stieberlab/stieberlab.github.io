@@ -19,10 +19,13 @@ function mkPage () {
 
 function mkSite() {
     FOLDER=$1
-
+	
     echo "Generating HTML content for $FOLDER"
-    find . -type f | grep -v .git | grep -E ".html$" | while read ITEM; do
-        mkPage  "$ITEM" "site/$ITEM"
+    find . -type f | grep -v .git | grep -E ".txt$" | while read ITEM; do
+        HTML_FNAME=$(basename $ITEM .txt).html
+	echo $ITEM
+        echo site/$HTML_FNAME
+	mkPage  "$ITEM" "site/$HTML_FNAME"
     done
 }
 
