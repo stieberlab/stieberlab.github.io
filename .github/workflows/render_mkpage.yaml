@@ -1,4 +1,4 @@
-name: Render Mkpage
+name: Render Pages
 
 on:
   push:
@@ -12,27 +12,9 @@ on:
 jobs:
   Render:
     runs-on: ubuntu-20.04
-    container: 
-      image: docker://pandoc/ubuntu:2.13
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - name: wget
-        uses: wei/wget@v1
-        with:
-          args: -O mkpage.zip https://github.com/caltechlibrary/mkpage/releases/download/v1.0.3/mkpage-1.0.3-linux-amd64.zip   
-      - uses: montudor/action-zip@v1
-        with:
-          args: unzip -qq mkpage.zip -d exe     
-      - name: mv
-        shell: bash
-        run: mv exe/bin/mkpage .
-      - name: ls
-        shell: bash
-        run: ls
-      - name: chmod
-        shell: bash
-        run: chmod +x mkpage
       - name: chmod
         shell: bash
         run: chmod +x mk-website.bash
