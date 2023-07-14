@@ -12,7 +12,7 @@ function mkSite() {
     FOLDER=$1
 	
     echo "Generating HTML content for $FOLDER"
-    find . -type f | grep -v .git | grep -E ".html$" | while read ITEM; do
+    find . -type f -name "*.html" -max_depth 0 | while read ITEM; do
 	mkPage  "$ITEM" "site/$ITEM"
     done
 }
