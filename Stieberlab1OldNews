@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!--#include file="stieberlabheader.html" -->
+
+    <div id="content">
+		<h2>StieberLab Old News</h2>
+        <p>(Most of) the Spring 2023 research team.</p>
+
+		</div>
+
+<!--#include file="stieberlabfooter.html" -->
+</html>
